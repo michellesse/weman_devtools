@@ -3,8 +3,9 @@ body {
 }
 
 header {
-	paddin: 27px;
+	padding: 27px;
 }
+/* typo paddin en lugar de padding */
 
 header img {
 	float: left;
